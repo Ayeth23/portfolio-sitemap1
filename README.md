@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository!
 
-You can visit my published Wix website [here](https://your-wix-website-link.com).
+You can visit my published Wix website [here](https://ayeth23.github.io/portfolio-sitemap/).
 
 Feel free to explore the code and let me know if you have any questions.
 
